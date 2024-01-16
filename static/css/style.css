@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+    height: 100vh;
+}
+
+.center{
+    position:absolute;
+    top:25%;
+    left: 38%;
+    /* transform: translate(-50,-50); */
+    background: wheat;
+    padding: 1cm;
+    border-radius: 10px;
+}
+
+.center h1{
+    text-align: center;
+    padding-top: 0 0 2px 0;
+    border-bottom: 1px solid black;
+    
+}
+
+.center form{
+    
+    box-sizing: border-box;
+}
